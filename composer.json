@@ -1,0 +1,16 @@
+{
+    "name": "vkauto/interfaces",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Miserable Coder",
+            "email": "miserable.coder@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"VKauto\\Interfaces\\": "src/VKauto/Interfaces"
+    	}
+    }
+}
